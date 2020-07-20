@@ -25,3 +25,6 @@ def printer(speaker)
   end
   printer
 end
+
+
+
